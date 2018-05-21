@@ -12,7 +12,7 @@ Just add some buttons, and code to make it autonomous
 
 ## Technical details
 
-The board is a : Heltec ESP32 LORA : ![https://robotzero.one/heltec-wifi-lora-32/](Heltec ESP32 Lora with OLED)
+The board is a : Heltec ESP32 LORA : [https://robotzero.one/heltec-wifi-lora-32/](Heltec ESP32 Lora with OLED)
 
 It's NOT LORAWAN compliant ... In fact it's more a Proof of Concept than a real project ...
 
