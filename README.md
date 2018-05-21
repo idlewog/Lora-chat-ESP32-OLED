@@ -22,6 +22,10 @@ and Left button again to come back to the edit message screen
 
 Anf that's it !
 
+## Video
+
+See it in action : [youtube demo](https://youtu.be/_6Gpcb84yeg)
+
 ## Technical details
 
 The board is a : [Heltec ESP32 LORA](https://robotzero.one/heltec-wifi-lora-32/)
