@@ -11,7 +11,9 @@ A tweaked out version from : https://github.com/unprovable/LoRaChat
 Just add some buttons, and code to make it autonomous
 
 2 red buttons for direction : Left and Right
+
 1 blue button to choose a letter
+
 1 green button to validate pseudo / messages
 
 Then, each arrived or sent messages are displayed with the pseudo at the beginning 
